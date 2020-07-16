@@ -1,0 +1,13 @@
+{
+    "name": "hanakivan/hello-world",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Ivan Hanak",
+            "email": "packagist@ivanhanak.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.36"
+    }
+}
